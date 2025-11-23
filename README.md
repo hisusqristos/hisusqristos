@@ -1,8 +1,4 @@
-| . ݁₊ ⊹ . ݁˖. ݁₊ ⊹ . ݁˖ . ݁ . ݁₊ ⊹ . ݁˖ .⋆⁺₊⋆ ☾⋆⁺₊⋆ . ݁ ݁ . ݁₊ ⊹ . ݁˖ . ݁|
-|--|
-| ![image](https://github.com/user-attachments/assets/1777d527-70a6-4fda-abc9-41f3b1b749b5) |
+When going through my work - consider to check out the issues, they are fun.
 
-
-
-
+P.S: I've gone idle for a while due to some questionable activity as an engineering student, but I do intend to come back. Until then dwell on the leftovers from my productive past.
 
